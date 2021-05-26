@@ -34,7 +34,7 @@ public class MainFrame extends javax.swing.JFrame {
 
         jLabel1.setText("Gestão de Cinema");
 
-        jLabel2.setText("gayyy");
+        jLabel2.setText("o caralho");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
