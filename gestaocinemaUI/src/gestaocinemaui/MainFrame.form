@@ -53,7 +53,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel2">
       <Properties>
-        <Property name="text" type="java.lang.String" value="o caralho"/>
+        <Property name="text" type="java.lang.String" value="gayyy"/>
       </Properties>
     </Component>
   </SubComponents>
